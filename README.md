@@ -68,8 +68,8 @@ npm run preview
 
 | Email | Password | Role | Saldo |
 |-------|----------|------|-------|
-| admin@gmail.com | admin111 | Admin | Rp 0 |
-| aldo@gmail.com | user111 | User | Rp 100,000 |
+| admin@gmail.com | 112233 | Admin | Rp 0 |
+| youraccount@gmail.com | user1234 | User | Rp 100,000 |
 
 ## Project Structure
 
